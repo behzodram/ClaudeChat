@@ -250,6 +250,9 @@
             line-height: 1.3;
             word-wrap: break-word;
             display: inline-block;
+            /* Qatorlarini saqlash uchun qo'shildi */
+            white-space: pre-wrap;
+            word-break: break-word;
         }
 
         .message.own .message-content {
@@ -305,6 +308,9 @@
             font-family: inherit;
             -webkit-appearance: none;
             overflow: hidden;
+            /* Inputda ham qatorlarini saqlash */
+            white-space: pre-wrap;
+            word-break: break-word;
         }
 
         .message-input:focus {
