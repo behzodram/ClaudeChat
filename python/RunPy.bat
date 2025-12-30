@@ -1,0 +1,1 @@
+C:\Users\Behzod\AppData\Local\Programs\Python\Python313\python.exe ChatServer_Logic.py
